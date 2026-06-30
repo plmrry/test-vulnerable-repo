@@ -1,0 +1,21 @@
+{
+  "name": "test-vulnerability-repo",
+  "//": "DO NOT INSTALL THIS REPO",
+  "dependencies": {
+    "axios": "0.21.0",
+    "jsonwebtoken": "8.5.1",
+    "lodash": "4.17.20",
+    "minimist": "0.0.8",
+    "next": "16.0.0",
+    "node-fetch": "2.6.6",
+    "node-forge": "0.9.0",
+    "node-serialize": "0.0.4",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "serialize-javascript": "2.1.1",
+    "sharp": "0.29.3",
+    "shell-quote": "1.7.2",
+    "vm2": "3.9.17",
+    "xmldom": "0.6.0"
+  }
+}
